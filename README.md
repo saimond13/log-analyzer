@@ -1,2 +1,10 @@
-# log-analyzer
-Un script en Python que analiza archivos de logs del sistema y busca patrones sospechosos.
+# Log Analyzer
+Herramienta básica para analizar archivos de logs y detectar patrones repetidos o posibles errores.
+
+## Funcionalidades
+- Conteo de ocurrencias de palabras clave.
+- Identificación de IPs repetidas.
+- Exportación a CSV.
+
+## Uso
+python log_analyzer.py logfile.txt
